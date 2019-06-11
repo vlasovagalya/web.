@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Размещение объявления";
+}
+<h1>@ViewData["Title"]</h1>
+
+<form method="post">
+    <p>
+        <label>
+            Название<br/>
+            <input type="text" name="title"/>
+        </label>
+    </p>
+    <p>
+        <label>
+            Город<br/>
+            <input type="text" name="city"/>
+        </label>
+    </p>
+    <p>
+        <label>
+            Кол-во комнат<br/>
+            <input type="number" name="roomCount"/>
+        </label>
+    </p>    
+    <p>
+        <label>
+            Площадь <br/>
+            <input type="number" name="square"/>
+        </label>
+    </p>    
+    <p>
+        <label>
+            ФИО <br/>
+            <input type="text" name="ownerFullName"/>
+        </label>
+    </p>
+    <p>
+        <label>
+            Номер телефона<br/>
+            <input type="text" name="ownerPhone"/>
+        </label>
+    </p>
+    <p>
+        <input type="submit" value="Отправить" />
+    </p>
+</form>

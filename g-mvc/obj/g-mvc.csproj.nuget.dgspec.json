@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\пк\\Downloads\\g-mvc\\g-mvc\\g-mvc.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\пк\\Downloads\\g-mvc\\g-mvc\\g-mvc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\пк\\Downloads\\g-mvc\\g-mvc\\g-mvc.csproj",
+        "projectName": "g-mvc",
+        "projectPath": "C:\\Users\\пк\\Downloads\\g-mvc\\g-mvc\\g-mvc.csproj",
+        "packagesPath": "C:\\Users\\пк\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\пк\\Downloads\\g-mvc\\g-mvc\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\пк\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

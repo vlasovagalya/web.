@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "g-mvc", "g-mvc\g-mvc.csproj", "{5F2AC6BC-41DC-42A6-B55F-EA7DC668FADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F2AC6BC-41DC-42A6-B55F-EA7DC668FADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2AC6BC-41DC-42A6-B55F-EA7DC668FADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2AC6BC-41DC-42A6-B55F-EA7DC668FADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2AC6BC-41DC-42A6-B55F-EA7DC668FADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
